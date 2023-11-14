@@ -1,6 +1,6 @@
 {
   "name": "picogw-plugin-db",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DB plugin of picogw",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "node-localstorage": "^1.3.0"
   },
   "devDependencies": {
-    "eslint": "^4.14.0",
+    "eslint": "^8.53.0",
     "eslint-config-google": "^0.9.1"
   }
 }
